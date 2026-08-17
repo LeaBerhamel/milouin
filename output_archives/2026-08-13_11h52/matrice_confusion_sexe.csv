@@ -1,0 +1,6 @@
+predit_par_ia,corrige_par_chercheur,nombre_de_cas
+(aucune),male,4
+(aucune),femelle,3
+male,male,3
+male,femelle,1
+femelle,male,1

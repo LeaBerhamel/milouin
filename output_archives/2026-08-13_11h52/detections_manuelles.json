@@ -1,0 +1,167 @@
+{
+  "RCNX0246_c8528858_rafale59_canard03_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job1\\RCNX0246.JPG",
+    "bbox": [
+      1109,
+      1015,
+      913,
+      372
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-11T16:07:11"
+  },
+  "RCNX0049_fa4ae4b8_rafale10_canard00_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job1\\RCNX0049.JPG",
+    "bbox": [
+      0,
+      720,
+      556,
+      348
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-11T16:14:18"
+  },
+  "RCNX0018_2ddee441_rafale2_canard01_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job1\\RCNX0018.JPG",
+    "bbox": [
+      102,
+      1080,
+      439,
+      328
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T09:51:51"
+  },
+  "RCNX0018_2ddee441_rafale2_canard02_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job1\\RCNX0018.JPG",
+    "bbox": [
+      945,
+      401,
+      190,
+      143
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T09:50:41"
+  },
+  "RCNX0083_f3e01603_rafale20_canard02_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job2\\RCNX0083.JPG",
+    "bbox": [
+      1837,
+      386,
+      181,
+      135
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T11:10:08"
+  },
+  "RCNX0125_5e630b58_rafale31_canard01_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job2\\RCNX0125.JPG",
+    "bbox": [
+      492,
+      380,
+      190,
+      161
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T11:12:30"
+  },
+  "RCNX0136_da927d37_rafale33_canard02_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job2\\RCNX0136.JPG",
+    "bbox": [
+      813,
+      474,
+      272,
+      287
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T11:13:15"
+  },
+  "RCNX0206_db0e4d6f_rafale51_canard02_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job2\\RCNX0206.JPG",
+    "bbox": [
+      413,
+      1012,
+      922,
+      401
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T11:15:13"
+  },
+  "RCNX0275_47d20abd_rafale68_canard00_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job2\\RCNX0275.JPG",
+    "bbox": [
+      287,
+      380,
+      284,
+      211
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T11:16:48"
+  },
+  "RCNX0275_47d20abd_rafale68_canard01_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job2\\RCNX0275.JPG",
+    "bbox": [
+      1618,
+      676,
+      430,
+      295
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T11:17:00"
+  },
+  "RCNX0324_e873a959_rafale80_canard02_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job2\\RCNX0324.JPG",
+    "bbox": [
+      1477,
+      755,
+      477,
+      418
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T11:17:25"
+  },
+  "RCNX0363_3283dba2_rafale90_canard04_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job2\\RCNX0363.JPG",
+    "bbox": [
+      23,
+      556,
+      331,
+      176
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T11:18:27"
+  },
+  "RCNX0441_bcb0afc7_rafale110_canard02_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job2\\RCNX0441.JPG",
+    "bbox": [
+      6,
+      688,
+      673,
+      334
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T11:20:47"
+  },
+  "RCNX0514_44ff9bab_rafale128_canard06_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job2\\RCNX0514.JPG",
+    "bbox": [
+      3,
+      483,
+      272,
+      217
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T11:23:03"
+  },
+  "RCNX0824_aabf1a33_rafale205_canard02_crop.jpg": {
+    "photo_source": "C:\\Users\\lea.berhamel\\Pictures\\final_corrige_v12\\final_corrige_v11\\final_corrige_v10\\final\\data\\photos\\job2\\RCNX0824.JPG",
+    "bbox": [
+      1334,
+      1088,
+      737,
+      336
+    ],
+    "classe": "canard",
+    "ajoute_le": "2026-08-12T11:30:15"
+  }
+}

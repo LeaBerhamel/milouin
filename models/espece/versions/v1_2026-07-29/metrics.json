@@ -1,0 +1,9 @@
+{
+  "val_acc": 0.99,
+  "precision": 0.93,
+  "recall": 0.85,
+  "date": "2026-07-29",
+  "notes": "ResNet18, WeightedRandomSampler (pas de class_weights loss), EPOCHS=50/PATIENCE=8. Recall morillon=0.70 sur seulement 10 exemples en val — peu fiable, à réévaluer avec plus de données.",
+  "dataset": "1790 images (1740 milouin / 50 morillon), déséquilibre extrême 34.8:1, split stratifié 80/20, seed42",
+  "source_model_file": "modele_especev1.pt"
+}

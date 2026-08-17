@@ -1,0 +1,1082 @@
+Journal des cas limites — 143 rafale(s) à vérifier sur 330
+======================================================================
+Rafale 5 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0024.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 : identifié -> bague JJJ (AYTFER, F) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 12 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0051.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 14 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0058.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 16 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0067.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 : identifié -> bague KNJ (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 18 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0076.JPG
+  Cause : 3 canards détectés sur la photo ; 1 canard bagué identifié et 2 non bagués : 2 milouin femelle
+    - Canard #0 : identifié -> bague KNJ (AYTFER, M) — OK
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #2 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 20 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0083.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (espèce non déterminée, sexe non déterminé) non résolu : raison non précisée
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 25 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0101.JPG
+  Cause : 3 canards détectés sur la photo ; 1 canard bagué identifié et 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 : identifié -> bague KNJ (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 26 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0106.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 27 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0110.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 28 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0113.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin femelle, 1 milouin male
+    - Canard #0 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 29 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0117.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 30 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0124.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 : identifié -> bague KNJ (AYTFER, M) — OK
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 31 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0125.JPG
+  Cause : 2 canards détectés sur la photo ; 2 canards bagués non identifiés : 2 milouin male
+    - Canard #0 : Ce canard a été apparié à la bague KNJ, mais un autre canard de la même photo y a aussi été apparié : la classification espèce/sexe n'a pas suffi à les distinguer, vérification manuelle nécessaire.
+    - Canard #1 : Ce canard a été apparié à la bague KNJ, mais un autre canard de la même photo y a aussi été apparié : la classification espèce/sexe n'a pas suffi à les distinguer, vérification manuelle nécessaire.
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 32 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0129.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 3 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 33 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0136.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 2 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 36 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0145.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 37 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0149.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 : identifié -> bague KNJ (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 41 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0166.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 46 — statut : AMBIGU
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0187.JPG
+  Cause : 2 observations temporellement proches malgré le filtrage espèce/sexe
+  Observations candidates dans le tableur :
+    - bague KNJ | espèce AYTFER | sexe M | heure 2026-05-04 12:38:00
+    - bague KPT | espèce AYTFER | sexe M | heure 2026-05-04 12:43:00
+  À vérifier : regarder la photo pour confirmer espèce/sexe/marque et choisir manuellement la bonne ligne du tableur ci-dessus.
+
+Rafale 48 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0194.JPG
+  Cause : 3 canards détectés sur la photo ; 2 non bagués : 2 milouin male et 1 canard bagué non identifié : 1 milouin femelle
+    - Canard #0 (milouin, femelle) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : femelle).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 49 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0197.JPG
+  Cause : 3 canards détectés sur la photo ; 1 canard bagué identifié et 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 : identifié -> bague KPT (AYTFER, M) — OK
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 50 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0204.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 3 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 51 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0206.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (espèce non déterminée, sexe non déterminé) non résolu : raison non précisée
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 52 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0212.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 : identifié -> bague KPT (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 56 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0226.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 60 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0241.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 63 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0254.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 64 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0258.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 65 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0261.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 66 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0267.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 68 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0275.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 3 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 78 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0315.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 79 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0318.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 80 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0324.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (espèce non déterminée, sexe non déterminé) non résolu : raison non précisée
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 81 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0327.JPG
+  Cause : 2 canards détectés sur la photo ; 1 non bagué : 1 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 86 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0346.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 90 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0363.JPG
+  Cause : 4 canards détectés sur la photo ; 4 non bagués : 1 milouin indetermine_juvenile, 3 milouin male
+    - Canard #0 (milouin, indetermine_juvenile) non résolu : Canard non marqué : milouin indetermine_juvenile (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #4 (espèce non déterminée, sexe non déterminé) non résolu : raison non précisée
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 91 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0368.JPG
+  Cause : 2 canards détectés sur la photo ; 1 non bagué : 1 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 94 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0378.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 95 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0383.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 3 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 96 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0386.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 97 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0391.JPG
+  Cause : 3 canards détectés sur la photo ; 2 non bagués : 2 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 98 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0394.JPG
+  Cause : 3 canards détectés sur la photo ; 2 non bagués : 1 milouin femelle, 1 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 102 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0412.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 105 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0422.JPG
+  Cause : 3 canards détectés sur la photo ; 1 canard bagué identifié et 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 : identifié -> bague KPT (AYTFER, M) — OK
+    - Canard #2 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 106 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0426.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin femelle
+    - Canard #0 : identifié -> bague KPT (AYTFER, M) — OK
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 107 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0431.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 : identifié -> bague KPT (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 110 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0441.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (espèce non déterminée, sexe non déterminé) non résolu : raison non précisée
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 112 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0451.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 115 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0462.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 : identifié -> bague JZ= (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 122 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0489.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 : identifié -> bague KO2 (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 123 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0494.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 : identifié -> bague KO2 (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 124 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0498.JPG
+  Cause : 3 canards détectés sur la photo ; 2 non bagués : 2 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : 3 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : JZ=, KO2, KPT).
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 125 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0504.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 3 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 126 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0507.JPG
+  Cause : 3 canards détectés sur la photo ; 2 non bagués : 2 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : JZ=, KPT).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 128 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0514.JPG
+  Cause : 6 canards détectés sur la photo ; 6 non bagués : 5 milouin male, 1 milouin indetermine_juvenile
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, indetermine_juvenile) non résolu : Canard non marqué : milouin indetermine_juvenile (aucune bague attribuable)
+    - Canard #4 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #5 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #6 (espèce non déterminée, sexe non déterminé) non résolu : raison non précisée
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 129 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0519.JPG
+  Cause : 6 canards détectés sur la photo ; 4 non bagués : 3 milouin male, 1 milouin femelle et 2 canards bagués non identifiés : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : JZ=, KPT).
+    - Canard #1 (milouin, male) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : JZ=, KPT).
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #4 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #5 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 130 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0524.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 3 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 134 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0540.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 2 milouin male, 1 milouin indetermine_juvenile
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, indetermine_juvenile) non résolu : Canard non marqué : milouin indetermine_juvenile (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 135 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0543.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 138 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0555.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 140 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0561.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 141 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0567.JPG
+  Cause : 4 canards détectés sur la photo ; 3 non bagués : 1 milouin femelle, 2 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : KPT, J3H).
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 142 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0571.JPG
+  Cause : 3 canards détectés sur la photo ; 2 non bagués : 2 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : KPT, J3H).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 143 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0575.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 148 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0593.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 : identifié -> bague J3H (AYTFER, M) — OK
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 149 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0598.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 150 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0603.JPG
+  Cause : 4 canards détectés sur la photo ; 2 non bagués : 2 milouin male et 2 canards bagués non identifiés : 1 milouin femelle, 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : JJJ, JJJ).
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, male) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : J3H, J3H).
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 151 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0606.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 153 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0614.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 : identifié -> bague JJJ (AYTFER, F) — OK
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 154 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0618.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 155 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0622.JPG
+  Cause : 4 canards détectés sur la photo ; 3 non bagués : 3 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : 3 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : JJJ, JJJ, JHF).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 156 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0625.JPG
+  Cause : 6 canards détectés sur la photo ; 6 non bagués : 3 milouin male, 3 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #3 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #4 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #5 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 157 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0630.JPG
+  Cause : 6 canards détectés sur la photo ; 6 non bagués : 5 milouin male, 1 milouin indetermine_juvenile
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #4 (milouin, indetermine_juvenile) non résolu : Canard non marqué : milouin indetermine_juvenile (aucune bague attribuable)
+    - Canard #5 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 158 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0635.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 160 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0643.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 162 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0649.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 163 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0654.JPG
+  Cause : 2 canards détectés sur la photo ; 1 non bagué : 1 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 164 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0657.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 2 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 165 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0662.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 168 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0673.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 169 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0678.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 2 milouin male, 1 milouin indetermine_juvenile
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, indetermine_juvenile) non résolu : Canard non marqué : milouin indetermine_juvenile (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 170 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0682.JPG
+  Cause : 3 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin indetermine_juvenile et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, indetermine_juvenile) non résolu : Canard non marqué : milouin indetermine_juvenile (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 171 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0686.JPG
+  Cause : 5 canards détectés sur la photo ; 4 non bagués : 3 milouin male, 1 milouin indetermine_juvenile et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+    - Canard #3 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #4 (milouin, indetermine_juvenile) non résolu : Canard non marqué : milouin indetermine_juvenile (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 176 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0707.JPG
+  Cause : 3 canards détectés sur la photo ; 2 non bagués : 2 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : KP1, KK+).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 178 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0714.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 183 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0735.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 197 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0790.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 3 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 198 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0796.JPG
+  Cause : 2 canards détectés sur la photo ; 1 non bagué : 1 milouin femelle et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 201 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0806.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 204 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0817.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 3 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 205 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0824.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (espèce non déterminée, sexe non déterminé) non résolu : raison non précisée
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 206 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0827.JPG
+  Cause : 2 canards détectés sur la photo ; 1 non bagué : 1 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 207 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0830.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 208 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0836.JPG
+  Cause : 3 canards détectés sur la photo ; 2 non bagués : 2 milouin male et 1 canard bagué non identifié : 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, femelle) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : femelle).
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 209 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0837.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 2 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 211 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0848.JPG
+  Cause : 5 canards détectés sur la photo ; 4 non bagués : 4 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #4 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 212 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0850.JPG
+  Cause : 5 canards détectés sur la photo ; 4 non bagués : 4 milouin male et 1 canard bagué non identifié : 1 milouin femelle
+    - Canard #0 (milouin, femelle) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : femelle).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #4 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 213 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0853.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 214 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job2\RCNX0858.JPG
+  Cause : 4 canards détectés sur la photo ; 4 non bagués : 4 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 216 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0012.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 219 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0023.JPG
+  Cause : 2 canards détectés sur la photo ; 1 non bagué : 1 milouin male et 1 canard bagué non identifié : 1 milouin femelle
+    - Canard #0 (milouin, femelle) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : femelle).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 220 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0025.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 225 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0046.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 227 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0054.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 231 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0070.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin femelle, 1 milouin male
+    - Canard #0 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 234 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0081.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 242 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0114.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 248 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0138.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 256 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0171.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 259 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0181.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 260 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0188.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 261 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0191.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 1 milouin femelle, 2 milouin male
+    - Canard #0 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 262 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0194.JPG
+  Cause : 2 canards détectés sur la photo ; 1 non bagué : 1 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 263 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0199.JPG
+  Cause : 2 canards détectés sur la photo ; 1 non bagué : 1 milouin male et 1 canard bagué non identifié : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : male).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 266 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0209.JPG
+  Cause : 2 canards détectés sur la photo ; 1 non bagué : 1 milouin male et 1 canard bagué non identifié : 1 milouin femelle
+    - Canard #0 (milouin, femelle) non résolu : Aucune observation du tableur ne correspond à ce créneau (espèce détectée : milouin, sexe détecté : femelle).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 269 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0222.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin femelle, 1 milouin male
+    - Canard #0 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 274 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0241.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin femelle
+    - Canard #0 : identifié -> bague K006690_KO2 (AYTFER, M) — OK
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 275 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0246.JPG
+  Cause : 3 canards détectés sur la photo ; 1 canard bagué identifié et 2 non bagués : 2 milouin male
+    - Canard #0 : identifié -> bague K006690_KO2 (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (espèce non déterminée, sexe non déterminé) non résolu : raison non précisée
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 276 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0250.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 277 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0253.JPG
+  Cause : 4 canards détectés sur la photo ; 4 non bagués : 4 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 278 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0258.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 280 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0266.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 285 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0288.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 287 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0293.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 293 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0319.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 295 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0325.JPG
+  Cause : 4 canards détectés sur la photo ; 1 canard bagué identifié et 3 non bagués : 2 milouin male, 1 milouin femelle
+    - Canard #0 : identifié -> bague K006578_KXT (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #3 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 296 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0330.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 3 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 298 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0338.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 301 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0352.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 1 milouin male, 1 milouin femelle
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 307 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0374.JPG
+  Cause : 2 canards détectés sur la photo ; 2 canards bagués non identifiés : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : K001494_J9L, K006565_KK+).
+    - Canard #1 (milouin, male) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : K001494_J9L, K006565_KK+).
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 308 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0378.JPG
+  Cause : 3 canards détectés sur la photo ; 1 non bagué : 1 milouin male et 2 canards bagués non identifiés : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : K001494_J9L, K006565_KK+).
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : 2 observations du tableur restent compatibles avec ce créneau même après filtrage par espèce/sexe (bagues candidates : K001494_J9L, K006565_KK+).
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 309 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0383.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 312 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0395.JPG
+  Cause : 3 canards détectés sur la photo ; 1 canard bagué identifié et 2 non bagués : 2 milouin femelle
+    - Canard #0 : identifié -> bague K001494_J9L (AYTFER, M) — OK
+    - Canard #1 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+    - Canard #2 (milouin, femelle) non résolu : Canard non marqué : milouin femelle (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 315 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0408.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 316 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0412.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 317 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0415.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 319 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0421.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 : identifié -> bague K006578_KXT (AYTFER, M) — OK
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 321 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0429.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 : identifié -> bague K006578_KXT (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 324 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0443.JPG
+  Cause : 2 canards détectés sur la photo ; 2 non bagués : 2 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 326 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0449.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 : identifié -> bague K006578_KXT (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 327 — statut : PARTIELLEMENT_IDENTIFIE
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0455.JPG
+  Cause : 2 canards détectés sur la photo ; 1 canard bagué identifié et 1 non bagué : 1 milouin male
+    - Canard #0 : identifié -> bague K006578_KXT (AYTFER, M) — OK
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.
+
+Rafale 328 — statut : MULTIPLE_CANARDS
+  Photo analysée : C:\Users\lea.berhamel\Pictures\final_corrige_v12\final_corrige_v11\final_corrige_v10\final\data\photos\job1\RCNX0460.JPG
+  Cause : 3 canards détectés sur la photo ; 3 non bagués : 3 milouin male
+    - Canard #0 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #1 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+    - Canard #2 (milouin, male) non résolu : Canard non marqué : milouin male (aucune bague attribuable)
+  À vérifier : ouvrir la photo annotée (dossier a_verifier/) pour confirmer quel canard correspond à quelle observation du tableur.

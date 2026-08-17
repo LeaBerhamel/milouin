@@ -1,0 +1,7 @@
+{
+  "val_acc": 0.93,
+  "date": "2026-07-30",
+  "notes": "3 classes bleu/marron/indeterminable, labels corriges via incoherences de rafales (19 corrections), macro F1=0.93",
+  "dataset": "dataset_couleur_3classes_v3, 340 crops (235 bleu / 70 marron / 35 indeterminable)",
+  "source_model_file": "modele_couleur.pt"
+}

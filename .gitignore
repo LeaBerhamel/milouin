@@ -1,0 +1,27 @@
+# Données et sorties (volumineuses, régénérables ou spécifiques à une machine)
+output/
+dataset/
+dataset_espece/
+dataset_sexe/
+dataset_couleur/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+*.egg-info/
+version_sans_python/
+
+# Packaging
+build/
+dist/
+*.spec.bak
+
+# Divers
+*.zip
+.DS_Store
+Thumbs.db

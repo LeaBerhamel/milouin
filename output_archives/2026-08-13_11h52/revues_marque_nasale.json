@@ -1,0 +1,37 @@
+{
+  "RCNX0076_c7857839_rafale18_canard00_crop.jpg": {
+    "marque_absente_detectee": false,
+    "marque_presente_chercheur": false,
+    "revu_le": "2026-08-13T11:35:50"
+  },
+  "RCNX0101_3f9d1431_rafale25_canard00_crop.jpg": {
+    "marque_absente_detectee": false,
+    "marque_presente_chercheur": false,
+    "revu_le": "2026-08-13T11:37:06"
+  },
+  "RCNX0212_1af2f378_rafale52_canard00_crop.jpg": {
+    "marque_absente_detectee": false,
+    "marque_presente_chercheur": false,
+    "revu_le": "2026-08-13T11:38:30"
+  },
+  "RCNX0426_e1b92d53_rafale106_canard00_crop.jpg": {
+    "marque_absente_detectee": false,
+    "marque_presente_chercheur": false,
+    "revu_le": "2026-08-13T11:40:13"
+  },
+  "RCNX0614_dce14977_rafale153_canard01_crop.jpg": {
+    "marque_absente_detectee": false,
+    "marque_presente_chercheur": false,
+    "revu_le": "2026-08-13T11:45:50"
+  },
+  "RCNX0194_20dbdda3_rafale262_canard01_crop.jpg": {
+    "marque_absente_detectee": false,
+    "marque_presente_chercheur": true,
+    "revu_le": "2026-08-13T11:47:56"
+  },
+  "RCNX0199_893e5163_rafale263_canard00_crop.jpg": {
+    "marque_absente_detectee": false,
+    "marque_presente_chercheur": true,
+    "revu_le": "2026-08-13T11:48:12"
+  }
+}

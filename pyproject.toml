@@ -1,0 +1,47 @@
+[project]
+name = "canard-detection"
+version = "1.0.0"
+description = "Pipeline de détection et d'identification de canards par rafales et modèles IA."
+requires-python = ">=3.10"
+# Pas de [build-system] ici : ce pyproject.toml sert uniquement à la config
+# des outils (pytest/ruff/mypy) ci-dessous, pas à un `pip install .`. Les
+# dépendances réelles (installées par requirements.txt et
+# requirements-dev.txt, y compris en CI, voir .github/workflows/tests.yml)
+# vivent donc uniquement là-bas pour éviter que les deux listes divergent.
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q --import-mode=importlib"
+testpaths = ["tests"]
+pythonpath = ["scripts"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "B", "I"]
+ignore = ["E712"] # Permet la flexibilité de comparaison explicite sur les booléens si nécessaire
+
+[tool.ruff.lint.per-file-ignores]
+# CSS/JS/HTML embarqués dans des chaînes Python : les couper en plein milieu
+# d'une règle CSS nuirait à la lisibilité sans aucun bénéfice réel.
+"scripts/utils/report.py" = ["E501"]
+
+# Notebooks ML exploratoires : tolérer lignes longues, imports non triés, imports non utilisés.
+# Les notebooks sont conçus pour l'exploration interactive et le réentraînement ponctuel
+# des modèles, pas pour la production — forcer un ordre strict des imports ou couper
+# des URLs de datasets à 120 caractères nuit plus à la lisibilité qu'autre chose.
+"models/couleur/IA_couleur.ipynb" = ["E501", "F401", "F403", "I001"]
+"models/espece/IA_espece.ipynb" = ["E501", "F401", "F403", "I001"]
+"models/sexe/IA_sexe.ipynb" = ["E501", "F401", "F403", "I001"]
+# E501 = ligne trop longue (URLs de datasets, affichage DataFrames)
+# F401 = import non utilisé (tests/explorations commentés)
+# F403 = import * (courant dans les notebooks pour rapidité)
+# I001 = imports non triés (ordre naturel d'exploration)
+
+[tool.mypy]
+python_version = "3.10"  # ⚠️ Corrigé de "3.14" (typo ?) vers "3.10" (cohérent avec requires-python)
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true

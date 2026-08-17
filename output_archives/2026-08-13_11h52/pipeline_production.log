@@ -1,0 +1,437 @@
+2026-08-10 00:15:44,451 - utils.config - INFO - Chargement du tableur...
+2026-08-10 00:15:44,892 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 00:15:44,894 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 00:15:44,896 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 00:15:44,909 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 00:15:44,917 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 00:15:44,919 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 00:15:44,919 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 00:15:44,919 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 00:15:45,038 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 00:15:45,039 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 00:15:45,039 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 00:15:45,039 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 00:15:45,040 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 00:36:11,753 - utils.config - INFO - Chargement du tableur...
+2026-08-10 00:36:12,160 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 00:36:12,163 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 00:36:12,165 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 00:36:12,174 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 00:36:12,195 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 00:36:12,196 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 00:36:12,196 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 00:36:12,197 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 00:36:12,291 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 00:36:12,292 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 00:36:12,292 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 00:36:12,292 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 00:36:12,292 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 00:42:22,039 - utils.config - INFO - Chargement du tableur...
+2026-08-10 00:42:22,589 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 00:42:22,590 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 00:42:22,592 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 00:42:22,602 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 00:42:22,606 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 00:42:22,607 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 00:42:22,608 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 00:42:22,608 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 00:42:22,679 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 00:42:22,679 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 00:42:22,679 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 00:42:22,680 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 00:42:22,681 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 00:43:34,110 - utils.config - INFO - Chargement du tableur...
+2026-08-10 00:43:34,514 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 00:43:34,517 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 00:43:34,518 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 00:43:34,527 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 00:43:34,544 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 00:43:34,545 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 00:43:34,545 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 00:43:34,546 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 00:43:34,610 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 00:43:34,611 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 00:43:34,611 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 00:43:34,611 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 00:43:34,611 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 01:06:18,801 - utils.config - INFO - Chargement du tableur...
+2026-08-10 01:06:19,200 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 01:06:19,202 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 01:06:19,204 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 01:06:19,213 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 01:06:19,218 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 01:06:19,233 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 01:06:19,234 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 01:06:19,234 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 01:06:19,336 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 01:06:19,337 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 01:06:19,337 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 01:06:19,337 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 01:06:19,338 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 02:10:17,461 - utils.config - INFO - Chargement du tableur...
+2026-08-10 02:10:17,958 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 02:10:17,959 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 02:10:17,961 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 02:10:17,973 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 02:10:17,980 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 02:10:18,002 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 02:10:18,002 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 02:10:18,002 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 02:10:18,119 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 02:10:18,120 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 02:10:18,120 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 02:10:18,120 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 02:10:18,120 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 02:12:11,146 - utils.config - ERROR - Erreur pendant la génération des suggestions de bague (non bloquant)
+Traceback (most recent call last):
+  File "C:\Users\compteadmin\Documents\final_corrige_v10 (2)\final_corrige_v10\final\scripts\interface_graphique.py", line 471, in _executer_pipeline
+    propositions_path = self._generer_dictionnaire_et_suggestions(resultat, params)
+  File "C:\Users\compteadmin\Documents\final_corrige_v10 (2)\final_corrige_v10\final\scripts\interface_graphique.py", line 409, in _generer_dictionnaire_et_suggestions
+    copier04.copier_crops(
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'copier_crops_valides' has no attribute 'copier_crops'
+2026-08-10 07:55:17,164 - utils.config - INFO - Chargement du tableur...
+2026-08-10 07:59:41,855 - utils.config - INFO - Chargement du tableur...
+2026-08-10 07:59:42,378 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 07:59:42,381 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 07:59:42,384 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 07:59:42,401 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 07:59:42,408 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 07:59:42,409 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 07:59:42,410 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 07:59:42,410 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 07:59:42,588 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 07:59:42,589 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 07:59:42,589 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 07:59:42,590 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 07:59:42,590 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 08:02:03,108 - utils.config - ERROR - Erreur pendant la génération des suggestions de bague (non bloquant)
+Traceback (most recent call last):
+  File "C:\Users\compteadmin\Documents\final_corrige_v10 (2)\final_corrige_v10\final\scripts\interface_graphique.py", line 471, in _executer_pipeline
+    propositions_path = self._generer_dictionnaire_et_suggestions(resultat, params)
+  File "C:\Users\compteadmin\Documents\final_corrige_v10 (2)\final_corrige_v10\final\scripts\interface_graphique.py", line 409, in _generer_dictionnaire_et_suggestions
+    copier04.copier_crops(
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'copier_crops_valides' has no attribute 'copier_crops'
+2026-08-10 08:17:09,591 - utils.config - INFO - Chargement du tableur...
+2026-08-10 08:17:10,123 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 08:17:10,125 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 08:17:10,127 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 08:17:10,138 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 08:17:10,142 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 08:17:10,143 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 08:17:10,144 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 08:17:10,144 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 08:17:10,252 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 08:17:10,253 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 08:17:10,253 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 08:17:10,253 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 08:17:10,253 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 08:19:17,200 - utils.config - ERROR - Erreur pendant la génération des suggestions de bague (non bloquant)
+Traceback (most recent call last):
+  File "C:\Users\compteadmin\Documents\final_corrige_v10 (2)\final_corrige_v10\final\scripts\interface_graphique.py", line 608, in _executer_pipeline
+    propositions_path = self._generer_dictionnaire_et_suggestions(resultat, params)
+  File "C:\Users\compteadmin\Documents\final_corrige_v10 (2)\final_corrige_v10\final\scripts\interface_graphique.py", line 548, in _generer_dictionnaire_et_suggestions
+    self._rattraper_archives_non_fusionnees(archives_dir, maitre_dir, log=print)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\compteadmin\Documents\final_corrige_v10 (2)\final_corrige_v10\final\scripts\interface_graphique.py", line 484, in _rattraper_archives_non_fusionnees
+    self._fusionner_source_dans_maitre(archive, maitre_dir, log=log)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\compteadmin\Documents\final_corrige_v10 (2)\final_corrige_v10\final\scripts\interface_graphique.py", line 450, in _fusionner_source_dans_maitre
+    copier04.copier_crops(
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'copier_crops_valides' has no attribute 'copier_crops'
+2026-08-10 09:06:11,602 - utils.config - INFO - Chargement du tableur...
+2026-08-10 09:06:12,185 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 09:06:12,187 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 09:06:12,190 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 09:06:12,204 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 09:06:12,212 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 09:06:12,213 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 09:06:12,213 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 09:06:12,214 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 09:06:12,456 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 09:06:12,456 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 09:06:12,456 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 09:06:12,456 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 09:06:12,457 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 09:09:22,338 - utils.config - ERROR - Erreur pendant la génération des suggestions de bague (non bloquant)
+Traceback (most recent call last):
+  File "C:\Users\lea.berhamel\Pictures\final_corrige_v11\final_corrige_v11\final_corrige_v10\final\scripts\interface_graphique.py", line 608, in _executer_pipeline
+    propositions_path = self._generer_dictionnaire_et_suggestions(resultat, params)
+  File "C:\Users\lea.berhamel\Pictures\final_corrige_v11\final_corrige_v11\final_corrige_v10\final\scripts\interface_graphique.py", line 548, in _generer_dictionnaire_et_suggestions
+    self._rattraper_archives_non_fusionnees(archives_dir, maitre_dir, log=print)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lea.berhamel\Pictures\final_corrige_v11\final_corrige_v11\final_corrige_v10\final\scripts\interface_graphique.py", line 484, in _rattraper_archives_non_fusionnees
+    self._fusionner_source_dans_maitre(archive, maitre_dir, log=log)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lea.berhamel\Pictures\final_corrige_v11\final_corrige_v11\final_corrige_v10\final\scripts\interface_graphique.py", line 450, in _fusionner_source_dans_maitre
+    copier04.copier_crops(
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'copier_crops_valides' has no attribute 'copier_crops'
+2026-08-10 09:15:20,529 - utils.config - INFO - Chargement du tableur...
+2026-08-10 09:15:20,998 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 09:15:21,000 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 09:15:21,002 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 09:15:21,013 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 09:15:21,018 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 09:15:21,019 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 09:15:21,019 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 09:15:21,020 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 09:15:21,162 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 09:15:21,162 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 09:15:21,162 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 09:15:21,162 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 09:15:21,163 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 09:17:37,134 - utils.config - ERROR - Erreur pendant la génération des suggestions de bague (non bloquant)
+Traceback (most recent call last):
+  File "C:\Users\lea.berhamel\Pictures\final_corrige_v11\final_corrige_v11\final_corrige_v10\final\scripts\interface_graphique.py", line 608, in _executer_pipeline
+    propositions_path = self._generer_dictionnaire_et_suggestions(resultat, params)
+  File "C:\Users\lea.berhamel\Pictures\final_corrige_v11\final_corrige_v11\final_corrige_v10\final\scripts\interface_graphique.py", line 548, in _generer_dictionnaire_et_suggestions
+    self._rattraper_archives_non_fusionnees(archives_dir, maitre_dir, log=print)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lea.berhamel\Pictures\final_corrige_v11\final_corrige_v11\final_corrige_v10\final\scripts\interface_graphique.py", line 484, in _rattraper_archives_non_fusionnees
+    self._fusionner_source_dans_maitre(archive, maitre_dir, log=log)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lea.berhamel\Pictures\final_corrige_v11\final_corrige_v11\final_corrige_v10\final\scripts\interface_graphique.py", line 450, in _fusionner_source_dans_maitre
+    copier04.copier_crops(
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'copier_crops_valides' has no attribute 'copier_crops'
+2026-08-10 09:25:50,416 - utils.config - INFO - Chargement du tableur...
+2026-08-10 09:25:50,871 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 09:25:50,874 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 09:25:50,877 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 09:25:50,888 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 09:25:50,894 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 09:25:50,895 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 09:25:50,896 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 09:25:50,900 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 09:25:51,090 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 09:25:51,090 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 09:25:51,091 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 09:25:51,091 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 09:25:51,091 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 09:41:48,711 - utils.config - INFO - Chargement du tableur...
+2026-08-10 09:41:49,186 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 09:41:49,187 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 09:41:49,189 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 09:41:49,201 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 09:41:49,207 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 09:41:49,208 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 09:41:49,208 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 09:41:49,209 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 09:41:49,353 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 09:41:49,353 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 09:41:49,353 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 09:41:49,353 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 09:41:49,354 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 09:47:37,981 - utils.config - INFO - Chargement du tableur...
+2026-08-10 09:47:38,491 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 09:47:38,493 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 09:47:38,495 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 09:47:38,509 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 09:47:38,515 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 09:47:38,516 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 09:47:38,516 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 09:47:38,516 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 09:47:38,764 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 09:47:38,764 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 09:47:38,765 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 09:47:38,765 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 09:47:38,765 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 10:14:40,766 - utils.config - INFO - Chargement du tableur...
+2026-08-10 10:14:41,180 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 10:14:41,182 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 10:14:41,184 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 10:14:41,194 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 10:14:41,200 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 10:14:41,201 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 10:14:41,202 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 10:14:41,202 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 10:14:41,327 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 10:14:41,327 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 10:14:41,328 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 10:14:41,328 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 10:14:41,328 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 11:35:51,339 - utils.config - INFO - Chargement du tableur...
+2026-08-10 11:35:51,815 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 11:35:51,817 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 11:35:51,818 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 11:35:51,829 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 11:35:51,834 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 11:35:51,835 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 11:35:51,835 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 11:35:51,836 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 11:35:51,972 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 11:35:51,972 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 11:35:51,972 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 11:35:51,973 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 11:35:51,973 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 12:04:26,289 - utils.config - INFO - Chargement du tableur...
+2026-08-10 12:04:26,771 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 12:04:26,773 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 12:04:26,775 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 12:04:26,791 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 12:04:26,798 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 12:04:26,800 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 12:04:26,800 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 12:04:26,800 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 12:04:26,962 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 12:04:26,962 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 12:04:26,962 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 12:04:26,962 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 12:04:26,963 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 15:30:03,895 - utils.config - INFO - Chargement du tableur...
+2026-08-10 15:30:04,450 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 15:30:04,452 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 15:30:04,454 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 15:30:04,465 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 15:30:04,472 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 15:30:04,474 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 15:30:04,474 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 15:30:04,474 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 15:30:04,633 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 15:30:04,634 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 15:30:04,634 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 15:30:04,634 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 15:30:04,634 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-10 15:51:00,364 - utils.config - INFO - Chargement du tableur...
+2026-08-10 15:51:00,786 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-10 15:51:00,788 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-10 15:51:00,790 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-10 15:51:00,801 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-10 15:51:00,807 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-10 15:51:00,808 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-10 15:51:00,808 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-10 15:51:00,808 - utils.config - INFO - Chargement IA Détection...
+2026-08-10 15:51:00,952 - utils.config - INFO - Modèle YOLO chargé
+2026-08-10 15:51:00,952 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-10 15:51:00,952 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-10 15:51:00,952 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-10 15:51:00,952 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-11 10:40:42,418 - utils.config - INFO - Chargement du tableur...
+2026-08-11 10:40:42,872 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-11 10:40:42,874 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-11 10:40:42,876 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-11 10:40:42,887 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-11 10:40:42,892 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-11 10:40:42,893 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-11 10:40:42,893 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-11 10:40:42,893 - utils.config - INFO - Chargement IA Détection...
+2026-08-11 10:40:43,035 - utils.config - INFO - Modèle YOLO chargé
+2026-08-11 10:40:43,035 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-11 10:40:43,035 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-11 10:40:43,035 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-11 10:40:43,036 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-11 10:48:45,807 - utils.config - INFO - Chargement du tableur...
+2026-08-11 10:48:46,268 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-11 10:48:46,270 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-11 10:48:46,272 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-11 10:48:46,284 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-11 10:48:46,289 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-11 10:48:46,291 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-11 10:48:46,291 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-11 10:48:46,291 - utils.config - INFO - Chargement IA Détection...
+2026-08-11 10:48:46,420 - utils.config - INFO - Modèle YOLO chargé
+2026-08-11 10:48:46,420 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-11 10:48:46,421 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-11 10:48:46,421 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-11 10:48:46,421 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-11 10:53:20,099 - utils.config - INFO - Chargement du tableur...
+2026-08-11 10:53:20,535 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-11 10:53:20,537 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-11 10:53:20,539 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-11 10:53:20,550 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-11 10:53:20,556 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-11 10:53:20,557 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-11 10:53:20,557 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-11 10:53:20,557 - utils.config - INFO - Chargement IA Détection...
+2026-08-11 10:53:20,736 - utils.config - INFO - Modèle YOLO chargé
+2026-08-11 10:53:20,736 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-11 10:53:20,736 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-11 10:53:20,736 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-11 10:53:20,737 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-11 11:02:07,494 - utils.config - INFO - Chargement du tableur...
+2026-08-11 11:02:07,910 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-11 11:02:07,912 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-11 11:02:07,914 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-11 11:02:07,923 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-11 11:02:07,929 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-11 11:02:07,930 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-11 11:02:07,930 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-11 11:02:07,930 - utils.config - INFO - Chargement IA Détection...
+2026-08-11 11:02:08,065 - utils.config - INFO - Modèle YOLO chargé
+2026-08-11 11:02:08,065 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-11 11:02:08,065 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-11 11:02:08,065 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-11 11:02:08,066 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-11 15:59:39,996 - utils.config - INFO - Chargement du tableur...
+2026-08-11 15:59:40,454 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-11 15:59:40,461 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-11 15:59:40,463 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-11 15:59:40,473 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-11 15:59:40,481 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-11 15:59:40,483 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-11 15:59:40,484 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-11 15:59:40,485 - utils.config - INFO - Chargement IA Détection...
+2026-08-11 15:59:40,656 - utils.config - INFO - Modèle YOLO chargé
+2026-08-11 15:59:40,656 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-11 15:59:40,656 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-11 15:59:40,656 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-11 15:59:40,657 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-12 09:45:06,350 - utils.config - INFO - Chargement du tableur...
+2026-08-12 09:45:06,886 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-12 09:45:06,893 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-12 09:45:06,895 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-12 09:45:06,906 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-12 09:45:06,916 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-12 09:45:06,918 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-12 09:45:06,918 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-12 09:45:06,920 - utils.config - INFO - Chargement IA Détection...
+2026-08-12 09:45:07,077 - utils.config - INFO - Modèle YOLO chargé
+2026-08-12 09:45:07,077 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-12 09:45:07,077 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-12 09:45:07,077 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-12 09:45:07,078 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-12 10:42:45,996 - utils.config - INFO - Chargement du tableur...
+2026-08-12 10:42:46,980 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-12 10:42:46,990 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-12 10:42:46,994 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-12 10:42:47,013 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-12 10:42:47,031 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-12 10:42:47,037 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-12 10:42:47,038 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-12 10:42:47,039 - utils.config - INFO - Chargement IA Détection...
+2026-08-12 10:42:47,337 - utils.config - INFO - Modèle YOLO chargé
+2026-08-12 10:42:47,338 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-12 10:42:47,338 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-12 10:42:47,338 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-12 10:42:47,339 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-12 11:01:41,592 - utils.config - INFO - Chargement du tableur...
+2026-08-12 11:01:42,298 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-12 11:01:42,300 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-12 11:01:42,303 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-12 11:01:42,316 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-12 11:01:42,327 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-12 11:01:42,329 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-12 11:01:42,329 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-12 11:01:42,330 - utils.config - INFO - Chargement IA Détection...
+2026-08-12 11:01:42,542 - utils.config - INFO - Modèle YOLO chargé
+2026-08-12 11:01:42,542 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-12 11:01:42,542 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-12 11:01:42,543 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-12 11:01:42,543 - utils.config - INFO - Extraction des timestamps EXIF...
+2026-08-13 11:25:58,527 - utils.config - INFO - Chargement du tableur...
+2026-08-13 11:25:59,556 - utils.config - INFO - Excel chargé : 3192 lignes
+2026-08-13 11:25:59,567 - utils.config - INFO - ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-13 11:25:59,572 - utils.config - INFO - ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-13 11:25:59,611 - utils.config - INFO - ✓ BAGUE complétée avec CODE MARQUE
+2026-08-13 11:25:59,643 - utils.config - INFO - ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-13 11:25:59,652 - utils.config - INFO - ✓ Lignes avec identifiant : 3191/3191
+2026-08-13 11:25:59,653 - utils.config - INFO - ✅ 3191 observations valides chargées
+2026-08-13 11:25:59,654 - utils.config - INFO - Chargement IA Détection...
+2026-08-13 11:26:00,032 - utils.config - INFO - Modèle YOLO chargé
+2026-08-13 11:26:00,033 - utils.config - INFO - IA Couleur configurée (lazy loading)
+2026-08-13 11:26:00,035 - utils.config - INFO - IA Espèce configurée (lazy loading)
+2026-08-13 11:26:00,036 - utils.config - INFO - IA Sexe configurée (lazy loading)
+2026-08-13 11:26:00,037 - utils.config - INFO - Extraction des timestamps EXIF...

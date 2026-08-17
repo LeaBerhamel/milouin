@@ -1,0 +1,10 @@
+{
+  "precision": 0.851,
+  "recall": 0.849,
+  "map50": 0.907,
+  "map": 0.52,
+  "date": "2026-07-29",
+  "notes": "1er run sur données (340 marque_nasale / 1815 canard, split 584/146 seed42). yolo26n, early stop epoch 90, best epoch 60. mAP50 marque_nasale=0.888, canard=0.926.",
+  "dataset": "dataset_detection (2 classes, seed42)",
+  "source_model_file": "detection-best.pt"
+}

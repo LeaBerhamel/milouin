@@ -1,0 +1,109 @@
+2026-08-03 15:22:46,937 [INFO] CanardDetection: Chargement du tableur...
+2026-08-03 15:22:47,425 [INFO] CanardDetection: Excel chargé : 1741 lignes
+2026-08-03 15:22:47,432 [INFO] CanardDetection: ✓ Filtre VRAI : 1741/1741 lignes conservées
+2026-08-03 15:22:47,434 [INFO] CanardDetection: ✓ Filtre PHOTO : 1741/1741 lignes conservées
+2026-08-03 15:22:47,446 [INFO] CanardDetection: ✓ BAGUE complétée avec CODE MARQUE
+2026-08-03 15:22:47,450 [INFO] CanardDetection: ✓ Lignes avec date/heure valide : 1740/1741
+2026-08-03 15:22:47,451 [INFO] CanardDetection: ✓ Lignes avec identifiant : 1740/1740
+2026-08-03 15:22:47,452 [INFO] CanardDetection: ✅ 1740 observations valides chargées
+2026-08-03 15:22:47,453 [INFO] CanardDetection: Chargement IA Détection...
+2026-08-03 15:22:47,625 [INFO] CanardDetection: Modèle YOLO chargé
+2026-08-03 15:22:47,626 [INFO] CanardDetection: IA Couleur configurée (lazy loading)
+2026-08-03 15:22:47,626 [INFO] CanardDetection: IA Espèce configurée (lazy loading)
+2026-08-03 15:22:47,626 [INFO] CanardDetection: IA Sexe configurée (lazy loading)
+2026-08-03 15:22:47,626 [INFO] CanardDetection: Extraction des timestamps EXIF...
+2026-08-03 15:55:13,852 [INFO] CanardDetection: Chargement du tableur...
+2026-08-03 15:55:14,221 [INFO] CanardDetection: Excel chargé : 1741 lignes
+2026-08-03 15:55:14,222 [INFO] CanardDetection: ✓ Filtre VRAI : 1741/1741 lignes conservées
+2026-08-03 15:55:14,223 [INFO] CanardDetection: ✓ Filtre PHOTO : 1741/1741 lignes conservées
+2026-08-03 15:55:14,231 [INFO] CanardDetection: ✓ BAGUE complétée avec CODE MARQUE
+2026-08-03 15:55:14,235 [INFO] CanardDetection: ✓ Lignes avec date/heure valide : 1740/1741
+2026-08-03 15:55:14,236 [INFO] CanardDetection: ✓ Lignes avec identifiant : 1740/1740
+2026-08-03 15:55:14,236 [INFO] CanardDetection: ✅ 1740 observations valides chargées
+2026-08-03 15:55:14,236 [INFO] CanardDetection: Chargement IA Détection...
+2026-08-03 15:55:14,373 [INFO] CanardDetection: Modèle YOLO chargé
+2026-08-03 15:55:14,373 [INFO] CanardDetection: IA Couleur configurée (lazy loading)
+2026-08-03 15:55:14,373 [INFO] CanardDetection: IA Espèce configurée (lazy loading)
+2026-08-03 15:55:14,373 [INFO] CanardDetection: IA Sexe configurée (lazy loading)
+2026-08-03 15:55:14,374 [INFO] CanardDetection: Extraction des timestamps EXIF...
+2026-08-03 16:06:18,751 [INFO] CanardDetection: Chargement du tableur...
+2026-08-03 16:06:19,634 [INFO] CanardDetection: Excel chargé : 1741 lignes
+2026-08-03 16:06:19,636 [INFO] CanardDetection: ✓ Filtre VRAI : 1741/1741 lignes conservées
+2026-08-03 16:06:19,638 [INFO] CanardDetection: ✓ Filtre PHOTO : 1741/1741 lignes conservées
+2026-08-03 16:06:19,651 [INFO] CanardDetection: ✓ BAGUE complétée avec CODE MARQUE
+2026-08-03 16:06:19,656 [INFO] CanardDetection: ✓ Lignes avec date/heure valide : 1740/1741
+2026-08-03 16:06:19,658 [INFO] CanardDetection: ✓ Lignes avec identifiant : 1740/1740
+2026-08-03 16:06:19,658 [INFO] CanardDetection: ✅ 1740 observations valides chargées
+2026-08-03 16:06:19,658 [INFO] CanardDetection: Chargement IA Détection...
+2026-08-03 16:06:20,044 [INFO] CanardDetection: Modèle YOLO chargé
+2026-08-03 16:06:20,044 [INFO] CanardDetection: IA Couleur configurée (lazy loading)
+2026-08-03 16:06:20,045 [INFO] CanardDetection: IA Espèce configurée (lazy loading)
+2026-08-03 16:06:20,045 [INFO] CanardDetection: IA Sexe configurée (lazy loading)
+2026-08-03 16:06:20,046 [INFO] CanardDetection: Extraction des timestamps EXIF...
+2026-08-03 16:14:44,904 [INFO] CanardDetection: Chargement du tableur...
+2026-08-03 16:14:45,273 [INFO] CanardDetection: Excel chargé : 1741 lignes
+2026-08-03 16:14:45,275 [INFO] CanardDetection: ✓ Filtre VRAI : 1741/1741 lignes conservées
+2026-08-03 16:14:45,276 [INFO] CanardDetection: ✓ Filtre PHOTO : 1741/1741 lignes conservées
+2026-08-03 16:14:45,284 [INFO] CanardDetection: ✓ BAGUE complétée avec CODE MARQUE
+2026-08-03 16:14:45,287 [INFO] CanardDetection: ✓ Lignes avec date/heure valide : 1740/1741
+2026-08-03 16:14:45,289 [INFO] CanardDetection: ✓ Lignes avec identifiant : 1740/1740
+2026-08-03 16:14:45,289 [INFO] CanardDetection: ✅ 1740 observations valides chargées
+2026-08-03 16:14:45,289 [INFO] CanardDetection: Chargement IA Détection...
+2026-08-03 16:14:45,425 [INFO] CanardDetection: Modèle YOLO chargé
+2026-08-03 16:14:45,425 [INFO] CanardDetection: IA Couleur configurée (lazy loading)
+2026-08-03 16:14:45,425 [INFO] CanardDetection: IA Espèce configurée (lazy loading)
+2026-08-03 16:14:45,426 [INFO] CanardDetection: IA Sexe configurée (lazy loading)
+2026-08-03 16:14:45,426 [INFO] CanardDetection: Extraction des timestamps EXIF...
+2026-08-03 16:15:08,641 [ERROR] CanardDetection: Erreur pendant le traitement
+Traceback (most recent call last):
+  File "C:\Users\lea.berhamel\Documents\final_corrige_v8\final\scripts\interface_graphique.py", line 342, in _executer_pipeline
+    resultat = process_rafales.run_pipeline(progress_callback=on_progress, **params)
+  File "C:\Users\lea.berhamel\Documents\final_corrige_v8\final\scripts\02_process_rafales.py", line 132, in run_pipeline
+    export_tableau_canards(resultats, canards_path)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lea.berhamel\Documents\final_corrige_v8\final\scripts\02_process_rafales.py", line 377, in export_tableau_canards
+    if photo_idx < len(result["rafale"]["timestamps"]):
+                       ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+KeyError: 'timestamps'
+2026-08-03 16:17:40,615 [INFO] CanardDetection: Chargement du tableur...
+2026-08-03 16:17:41,009 [INFO] CanardDetection: Excel chargé : 1741 lignes
+2026-08-03 16:17:41,010 [INFO] CanardDetection: ✓ Filtre VRAI : 1741/1741 lignes conservées
+2026-08-03 16:17:41,012 [INFO] CanardDetection: ✓ Filtre PHOTO : 1741/1741 lignes conservées
+2026-08-03 16:17:41,020 [INFO] CanardDetection: ✓ BAGUE complétée avec CODE MARQUE
+2026-08-03 16:17:41,024 [INFO] CanardDetection: ✓ Lignes avec date/heure valide : 1740/1741
+2026-08-03 16:17:41,025 [INFO] CanardDetection: ✓ Lignes avec identifiant : 1740/1740
+2026-08-03 16:17:41,025 [INFO] CanardDetection: ✅ 1740 observations valides chargées
+2026-08-03 16:17:41,025 [INFO] CanardDetection: Chargement IA Détection...
+2026-08-03 16:17:41,116 [INFO] CanardDetection: Modèle YOLO chargé
+2026-08-03 16:17:41,117 [INFO] CanardDetection: IA Couleur configurée (lazy loading)
+2026-08-03 16:17:41,117 [INFO] CanardDetection: IA Espèce configurée (lazy loading)
+2026-08-03 16:17:41,117 [INFO] CanardDetection: IA Sexe configurée (lazy loading)
+2026-08-03 16:17:41,117 [INFO] CanardDetection: Extraction des timestamps EXIF...
+2026-08-03 16:24:48,268 [INFO] CanardDetection: Chargement du tableur...
+2026-08-03 16:24:48,771 [INFO] CanardDetection: Excel chargé : 1741 lignes
+2026-08-03 16:24:48,772 [INFO] CanardDetection: ✓ Filtre VRAI : 1741/1741 lignes conservées
+2026-08-03 16:24:48,774 [INFO] CanardDetection: ✓ Filtre PHOTO : 1741/1741 lignes conservées
+2026-08-03 16:24:48,785 [INFO] CanardDetection: ✓ BAGUE complétée avec CODE MARQUE
+2026-08-03 16:24:48,790 [INFO] CanardDetection: ✓ Lignes avec date/heure valide : 1740/1741
+2026-08-03 16:24:48,791 [INFO] CanardDetection: ✓ Lignes avec identifiant : 1740/1740
+2026-08-03 16:24:48,791 [INFO] CanardDetection: ✅ 1740 observations valides chargées
+2026-08-03 16:24:48,791 [INFO] CanardDetection: Chargement IA Détection...
+2026-08-03 16:24:48,952 [INFO] CanardDetection: Modèle YOLO chargé
+2026-08-03 16:24:48,953 [INFO] CanardDetection: IA Couleur configurée (lazy loading)
+2026-08-03 16:24:48,953 [INFO] CanardDetection: IA Espèce configurée (lazy loading)
+2026-08-03 16:24:48,953 [INFO] CanardDetection: IA Sexe configurée (lazy loading)
+2026-08-03 16:24:48,953 [INFO] CanardDetection: Extraction des timestamps EXIF...
+2026-08-04 10:40:49,934 [INFO] CanardDetection: Chargement du tableur...
+2026-08-04 10:40:50,353 [INFO] CanardDetection: Excel chargé : 3192 lignes
+2026-08-04 10:40:50,355 [INFO] CanardDetection: ✓ Filtre VRAI : 3192/3192 lignes conservées
+2026-08-04 10:40:50,357 [INFO] CanardDetection: ✓ Filtre PHOTO : 3192/3192 lignes conservées
+2026-08-04 10:40:50,367 [INFO] CanardDetection: ✓ BAGUE complétée avec CODE MARQUE
+2026-08-04 10:40:50,372 [INFO] CanardDetection: ✓ Lignes avec date/heure valide : 3191/3192
+2026-08-04 10:40:50,373 [INFO] CanardDetection: ✓ Lignes avec identifiant : 3191/3191
+2026-08-04 10:40:50,373 [INFO] CanardDetection: ✅ 3191 observations valides chargées
+2026-08-04 10:40:50,374 [INFO] CanardDetection: Chargement IA Détection...
+2026-08-04 10:40:50,532 [INFO] CanardDetection: Modèle YOLO chargé
+2026-08-04 10:40:50,533 [INFO] CanardDetection: IA Couleur configurée (lazy loading)
+2026-08-04 10:40:50,533 [INFO] CanardDetection: IA Espèce configurée (lazy loading)
+2026-08-04 10:40:50,533 [INFO] CanardDetection: IA Sexe configurée (lazy loading)
+2026-08-04 10:40:50,533 [INFO] CanardDetection: Extraction des timestamps EXIF...
